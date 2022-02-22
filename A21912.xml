@@ -1,0 +1,170 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Orders prescribed by her Maiesties commandement by aduise of her counsell, published in London, and other places neere to the same, for the obseruation of her Maiesties present proclamation. 4. Iulij. 1595</title>
+            <title>Proclamations. 1595</title>
+            <author>England and Wales. Privy Council.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1595</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 7 KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A21912</idno>
+            <idno type="STC">STC 8243</idno>
+            <idno type="STC">ESTC S115511</idno>
+            <idno type="EEBO-CITATION">99850730</idno>
+            <idno type="PROQUEST">99850730</idno>
+            <idno type="VID">15955</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A21912)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 15955)</note>
+            <note>Images scanned from microfilm: (Early English books, 1475-1640 ; 565:99)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Orders prescribed by her Maiesties commandement by aduise of her counsell, published in London, and other places neere to the same, for the obseruation of her Maiesties present proclamation. 4. Iulij. 1595</title>
+                  <title>Proclamations. 1595</title>
+                  <author>England and Wales. Privy Council.</author>
+                  <author>England and Wales. Sovereign (1558-1603 : Elizabeth I)</author>
+               </titleStmt>
+               <extent>1 sheet ([1] p.)   </extent>
+               <publicationStmt>
+                  <publisher>By the deputies of Christopher Barker, printer to the Queenes most excellent Maiestie,</publisher>
+                  <pubPlace>Imprinted at London :</pubPlace>
+                  <date>1595.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Setting curfews.</note>
+                  <note>Reproduction of the original in the Bodleian Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Rogues and vagabonds --  Early works to 1800.</term>
+               <term>Curfew --  England --  Early works to 1800.</term>
+               <term>England --  Proclamations --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2008-08</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2008-11</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-05</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2009-05</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb facs="tcp:15955:1"/>
+            <!-- PDF PAGE 17 -->
+            <head>¶ Orders preſcribed by her Maieſties commandement by aduiſe <hi>of her Counſell, publiſhed in London, and other places neere to the ſame, for the</hi> obſeruation of her Maieſties preſent Proclamation. <date>4. Iulij. 1595.</date>
+            </head>
+            <p>
+               <seg rend="decorInit">T</seg>Hat no perſon, but ſuch as are Officers for preſeruation of peace, or ſuch as ſhall aſſiſt them, or ſuch as be of knowen honeſt conuerſation, do walke vp and downe in the ſtreetes or fields after Sunne ſet, or nine of the clock at night, vpon paine to be apprehended and committed to priſon, and to be puniſhed according to their qualitie.</p>
+            <p>That no perſons, (except they be publique Officers) doe aſſemble themſelues in any com<g ref="char:EOLhyphen"/>pany at any time in any place, other then in Churches for praiers or Sermons, or for appea<g ref="char:EOLhyphen"/>rances afore Officers of Iuſtice, or by their commaundement, or in the common Halles of Companies, vpon paine to be taken and puniſhed.</p>
+            <p>That no Houſholder, nor any perſon that keepeth Innes or lodging for any Strangers, doe ſuffer their Seruants or their Gheſtes, being not Gentlemen, or others of good value and conuerſation, to goe out of their houſes in the Euening after nine of the clock, vpon paine to be impriſoned as an offendour: or other wiſe, if they cannot reſtraine them, then to informe preſently the Con<g ref="char:EOLhyphen"/>ſtable or Officers thereof, and to haue them ſpeedely apprehended.</p>
+            <p>That no perſon doe write, or be priuie to any ſeditious Billes, to be diſperſed or ſet vp, vpon paine to be executed by Martiall lawe: and if any perſon ſhall come to the knowledge of any perſon that hath written, or ſet vp, or diſperſed a<g ref="char:EOLhyphen"/>ny ſuch ſeditious Bill, and will reueale the ſame to any Officer, the information beeing founde true, and the partie taken, the Reuealers ſhall haue xx.li. or a better reward.</p>
+            <p>That all perſons that are not knowen to be ſeruants in the Queenes Maieſties Houſe, or not ordinarily perteining to any Lord or Gentleman, and doe wander abroade either by the name of Souldiers, or that ſeeke ſeruice, or doe come as Suiters to her Maieſtie, or to any of her Officers for ſuites in Lawe, ſhall preſent themſelues to certaine perſons of judgement hereafter named, that are appointed by the Counſell to examine their conditions according whereto they ſhall be directed howe to leaue their wandring, and if they ſhall be meete to be relieued, or to be reteined in ſeruice, or come as Suiters to any common, or to any publique Officer, they ſhall be ſo prouided for, as their cauſes ſhall require, and not to be ſuffered to wander abroad, to the offence or terrour of other good quiet people, that haue cauſe to trauel by the hie wayes for their lawfull buſineſſe.</p>
+            <p>That all perſons that ſhalbe arreſted by any officer lawfully authoriſed, ſhall obey the ſame Officer, and that if any ſhall make reſiſtance, euerie other perſon being preſent, and required by the Officer to aſſiſt him ſhall ſo doe, to the beſt of his power, vpon paine to be committed to the ſame place, where the partie that did diſobey the officer ought to be: and if any perſon ſhall attempt to aide the partie that ſhould be arreſted to be reſcued, ſuch perſon and all that ſhall ac<g ref="char:EOLhyphen"/>companie him, ſhall be apprehended, and ſhall be executed by the Prouoſt Martiall, by Martiall lawe.</p>
+            <p>That all Officers of the Citie, and all other places neere the Citie, as is afore mentioned hauing authoritie to apprehend Rogues and to puniſh them, ſhall in the circuites of their Iuriſdiction meete together twiſe euery Meeke or oft<g ref="char:EOLhyphen"/>ner, and ſhall cauſe ſearch to be made in the common ſtreetes, and the high wayes by ſome companie of able men, to ap<g ref="char:EOLhyphen"/>prehend ſuch Rogues and Vagabonds, and ſhal alſo take order for the diſpoſing of the poore and lame to repaire to the places where they ought to be prouided by the almes of their Pariſhes, and not be ſuffered to wander abroade without prouiſion and relieſe.</p>
+            <div type="part">
+               <head>¶ The names of certaine perſons appointed to ſit at the Seſsions hall neere Newgate, to examine the conditions of ſuch perſons as ſhall be taken wan<g ref="char:EOLhyphen"/>dering in the common ſtreetes or high wayes, hauing no certaine habitation.</head>
+               <p>
+                  <list>
+                     <head>¶ For ſuch as pretend to haue ſerued as Souldiers.</head>
+                     <item>Sir Thomas Sherley.</item>
+                     <item>Sir Thomas Morgan.</item>
+                     <item>Sir Roger Williams.</item>
+                     <item>Captaine Oliuer S. Iohn.</item>
+                     <item>Captaine Iackſon.</item>
+                     <item>Captaine Hinder.</item>
+                     <item>Captaine Bucke.</item>
+                  </list>
+Or any three of them.</p>
+               <p>
+                  <list>
+                     <head>¶ <hi>For ſuch other as pretend not to be Souldiers, but pretend to come to ſeeke ſeruice, or</hi> to follow ſuites, or that haue no reaſonable cauſe to be ſuffered to wan<g ref="char:EOLhyphen"/>der, but are of the nature of Rogues.</head>
+                     <item>Sir Owen Hopton.</item>
+                     <item>Recorder of London.</item>
+                     <item>Robert VVroth.</item>
+                     <item>Richard VVarren.</item>
+                     <item>VVill. Fleetwood receiuer of the VVardes.</item>
+                     <item>Arthur Atie.</item>
+                     <item>Richard Skeuington.</item>
+                     <item>George Aſhbie of VVeſtminſter.</item>
+                     <item>Thomas Fowler.</item>
+                     <item>Towne Clerke of London.</item>
+                     <item>Clerke of the Peace of Middleſex.</item>
+                  </list>
+Or any three of them.</p>
+               <p>Who vpon examination of the ſaid Wanderers, are to direct them by their precepts to their natiue Countries accor<g ref="char:EOLhyphen"/>ding to the Statute, or if they ſhall not depart then, to haue them puniſhed as Rogues, and for ſuch as are found impo<g ref="char:EOLhyphen"/>tent and lame, to appoint them ſo to be relieued, as they may repaire to their natiue countreys, or to the places where they did laſt inhabite. All theſe perſons aboue named to agree amongſt themſelues, how at leaſt three or more of them may by turnes attend at the foreſaid Seſſions hall twice euery weeke, and that as they ſhall find cauſe, they doe aduer<g ref="char:EOLhyphen"/>tiſe her Maieſties Councell of their proceedings, and this their meetings to continue, vntill vpon order from the Council the ſame ſhalbe diſcharged.</p>
+            </div>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <g ref="char:leaf">❧</g> Imprinted at London by the Deputies of CHRISTOPHER BARKER Printer to the Queenes moſt excellent Maieſtie 1595.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
